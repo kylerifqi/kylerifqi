@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Javascript",
+		"url": "https://www.javascript.com/",
+		"iconFile": "js.svg",
+		"version": "ES6",
+		"year": 2019,
+		"children": [
+			{
+				"name": "Typescript",
+				"url": "https://www.typescriptlang.org/",
+				"iconFile": "ts.svg",
+				"version": "4.5.4",
+				"year": 2021
+			},
+			{
+				"name": "ReactJS",
+				"url": "https://reactjs.org/",
+				"iconFile": "react.svg",
+				"version": "17.0",
+				"year": 2022,
+				"children": [
+					{
+						"name": "Tailwind",
+						"url": "https://tailwindcss.com/",
+						"iconFile": "tw.svg",
+						"version": "3.0",
+						"year": 2022
+					}
+				]
+			},
+			{
+				"name": "p5.js",
+				"url": "https://p5js.org/",
+				"iconFile": "p5.svg",
+				"version": "1.3.1",
+				"year": 2021
+			},
+			{
+				"name": "Electron",
+				"url": "https://www.electronjs.org/",
+				"iconFile": "electron.svg",
+				"version": "11.2",
+				"year": 2020
+			}
+		]
+	},
+	{
+		"name": "HTML",
+		"url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+		"iconFile": "html.svg",
+		"version": "5.0",
+		"year": 2019,
+		"children": [
+			{
+				"name": "CSS",
+				"url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+				"iconFile": "css.svg",
+				"version": "2.1",
+				"year": 2019
+			}
+		]
+	},
+	{
+		"name": "Python",
+		"url": "https://www.python.org/",
+		"iconFile": "py.svg",
+		"version": "3.8",
+		"year": 2020,
+		"children": [
+			{
+				"name": "TKinter",
+				"url": "https://docs.python.org/3/library/tk.html",
+				"iconFile": "tk.png",
+				"version": "3.8",
+				"year": 2021
+			}
+		]
+	},
+	{
+		"name": "Lua",
+		"url": "https://www.lua.org/",
+		"iconFile": "lua.svg",
+		"version": "5.4",
+		"year": 2020,
+		"children": [
+			{
+				"name": "ComputerCraft (Tweaked)",
+				"url": "https://www.curseforge.com/minecraft/mc-mods/cc-tweaked",
+				"iconFile": "cc.png",
+				"version": "1.8",
+				"year": 2020
+			},
+			{
+				"name": "CreateYourFrisk",
+				"url": "https://github.com/RhenaudTheLukark/CreateYourFrisk",
+				"iconFile": "cyf.svg",
+				"version": "0.6.5",
+				"year": 2020
+			}
+		]
+	},
+	{
+		"name": "Applescript",
+		"url": "https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html",
+		"iconFile": "as.svg",
+		"version": "1.6",
+		"year": 2016
+	}
+]
