@@ -2,7 +2,9 @@
 
 ### About Me:
 
-Hello! My name is Kyle Rifqi, and i'm a Back-End Developer and am currently learning Front-End. My GitHub Profile is pretty empty, as its still new and im getting used to using github, but expect stuff from me soon.
+Hello! My name is KyleRifqi, and i'm a Back-End Developer and am currently learning Front-End. My GitHub Profile is pretty empty, as its still new and im getting used to using github, but expect stuff from me soon.
+
+Check out my [Stack Overflow Account](https://stackoverflow.com/users/17850568/kylerifqi)!
 
 ### Languages And Libraries I Use:
 
