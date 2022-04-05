@@ -8,7 +8,6 @@ Check out my [Stack Overflow Account](https://stackoverflow.com/users/17850568/k
 
 ### Languages And Libraries I Use:
 
-Click photos / icons to get more information
 <!-- Generated With Script "Language Tree Generator" By KyleRifqi -->
 - <a href='https://www.javascript.com/'><img src='./media/js.svg' width='20'></a> **Javascript** ES6+ [2019]
    - <a href='https://www.typescriptlang.org/'><img src='./media/ts.svg' width='20'></a> **Typescript** 4.5.4+ [2021]
@@ -24,6 +23,7 @@ Click photos / icons to get more information
    - <a href='https://www.curseforge.com/minecraft/mc-mods/cc-tweaked'><img src='./media/cc.png' width='20'></a> **ComputerCraft (Tweaked)** 1.8+ [2020]
    - <a href='https://github.com/RhenaudTheLukark/CreateYourFrisk'><img src='./media/cyf.svg' width='20'></a> **CreateYourFrisk** 0.6.5+ [2020]
 - <a href='https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html'><img src='./media/as.svg' width='20'></a> **Applescript** 1.6+ [2016]
+- <a href='https://www.php.net/'><img src='./media/php.svg' width='20'></a> **PHP** 4.0++ [2019]
 
 
 ### My Github Stats:

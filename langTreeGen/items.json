@@ -106,5 +106,12 @@
 		"iconFile": "as.svg",
 		"version": "1.6",
 		"year": 2016
+	},
+	{
+		"name": "PHP",
+		"url": "https://www.php.net/",
+		"iconFile": "php.svg",
+		"version": "4.0+",
+		"year": 2019
 	}
 ]
