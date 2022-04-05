@@ -23,7 +23,7 @@ Check out my [Stack Overflow Account](https://stackoverflow.com/users/17850568/k
    - <a href='https://www.curseforge.com/minecraft/mc-mods/cc-tweaked'><img src='./media/cc.png' width='20'></a> **ComputerCraft (Tweaked)** 1.8+ [2020]
    - <a href='https://github.com/RhenaudTheLukark/CreateYourFrisk'><img src='./media/cyf.svg' width='20'></a> **CreateYourFrisk** 0.6.5+ [2020]
 - <a href='https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html'><img src='./media/as.svg' width='20'></a> **Applescript** 1.6+ [2016]
-- <a href='https://www.php.net/'><img src='./media/php.svg' width='20'></a> **PHP** 4.0++ [2019]
+- <a href='https://www.php.net/'><img src='./media/php.svg' width='20'></a> **PHP** 4.0+ [2019]
 
 
 ### My Github Stats:

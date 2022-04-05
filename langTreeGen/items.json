@@ -111,7 +111,7 @@
 		"name": "PHP",
 		"url": "https://www.php.net/",
 		"iconFile": "php.svg",
-		"version": "4.0+",
+		"version": "4.0",
 		"year": 2019
 	}
 ]
